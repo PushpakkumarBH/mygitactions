@@ -1,5 +1,9 @@
-print("Hello World!")
-def Hello():
-  print("Inside Hello Function")
+ print("Hello World!")
 
-Hello() 
+
+ def Hello():
+    print("Inside Hello Function")
+
+
+Hello()
+
